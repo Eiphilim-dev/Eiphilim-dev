@@ -66,6 +66,11 @@
   <summary><b>🤖 Cloud & AI</b></summary>
   <p align="left">
     <img alt="Generative AI Tools" src="https://img.shields.io/badge/Generative%20AI%20Tools-10A37F?logo=openai&logoColor=white" />
+    <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white" />
+    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white" />
+    <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=white" />
+    <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?logo=googlegemini&logoColor=white" />
+    <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-181717?logo=githubcopilot&logoColor=white" />
   </p>
 </details>
 
