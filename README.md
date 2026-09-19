@@ -80,6 +80,61 @@
 
 ---
 
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3 align="center">🏢 Employee Management System (Full-Stack)</h3>
+      <p align="center">
+        <a href="https://github.com/Eiphilim-dev/employee-management-frontend-e-employee-management-backend">
+          <img src="https://img.shields.io/badge/View_Repository-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+        </a>
+      </p>
+      <p align="center">Enterprise full-stack CRUD application for comprehensive employee management. Modular architecture featuring a scalable backend and a responsive interface.</p>
+      <p align="center">
+        <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img alt="REST API" src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☕ Java Backend & Academy Lab</h3>
+      <p align="center">
+        <a href="https://github.com/Eiphilim-dev/EserciziAcademy">
+          <img src="https://img.shields.io/badge/View_Repository-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+        </a>
+      </p>
+      <p>A collection of practical modules focused on object-oriented programming, data persistence, JDBC, CRUD operations, and backend software architecture.</p>
+      <p align="center">
+        <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+        <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img alt="OOP" src="https://img.shields.io/badge/OOP-Best_Practices-4E73DF?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐍 Python Projects Hub</h3>
+      <p align="center">
+        <a href="https://github.com/Eiphilim-dev/my-python-projects">
+          <img src="https://img.shields.io/badge/View_Repository-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+        </a>
+      </p>
+      <p>A collection of scripts, basic algorithms, automation tasks, and personal projects developed using the Python ecosystem.</p>
+      <p align="center">
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img alt="Scripts" src="https://img.shields.io/badge/Automation-Scripts-informational?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
 
   <h2>📊 GitHub Analytics</h2>
